@@ -1,3 +1,0 @@
-# divinehomestay
-Divine Homestay website
-  
